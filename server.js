@@ -1,11 +1,11 @@
 const express = require("express");
+const cors = require("cors");
 
 const app = express();
+const bookings = require("./bookings.json");
 const port = process.env.PORT || 3001;
 
-app.use(express.json());
-
-const bookings = require("./bookings.json");
+app.use(cors());
 
 app.get("/", (req, res) => res.status(200).json(bookings));
 
