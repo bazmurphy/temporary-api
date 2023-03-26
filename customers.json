@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Mr",
+    "firstName": "John",
+    "surname": "Doe",
+    "email": "johndoe@doe.com",
+    "phoneNumber": "+447700900934",
+    "VIP": false
+  },
+  {
+    "id": 2,
+    "title": "Doctor",
+    "firstName": "Sadia",
+    "surname": "Begum",
+    "email": "begum_sadia@sadia.org",
+    "phoneNumber": "+447700934870",
+    "VIP": false
+  },
+  {
+    "id": 3,
+    "title": "Prince",
+    "firstName": "Henry",
+    "surname": "Wales",
+    "email": "harry@wales.com",
+    "phoneNumber": "+447706900934",
+    "VIP": true
+  },
+  {
+    "id": 4,
+    "title": "Dame",
+    "firstName": "Judi",
+    "surname": "Dench",
+    "email": "Judi@dench.co.uk",
+    "phoneNumber": "+447765901478",
+    "VIP": true
+  },
+  {
+    "id": 5,
+    "title": "Madam",
+    "firstName": "Anuradha",
+    "surname": "Selvam",
+    "email": "anu@selvam.net",
+    "phoneNumber": "+447701933534",
+    "VIP": false
+  }
+]
